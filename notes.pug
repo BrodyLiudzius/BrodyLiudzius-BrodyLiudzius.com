@@ -1,0 +1,28 @@
+extends mixins/defaultTemplate.pug
+
+block title
+	title Notes
+
+block content
+	main
+		section
+			h1 My Notes
+			p
+				|Here you can find a collection of my personal notes
+				|that I use as reference, transcribed to the convenient
+				|format of HTML!
+				|I use these webpages as a reference, so I will, at times,
+				|update them with more information or just edit them to keep
+				|them sufficiently succinct.
+				|If a page fits in more than one of the below topics,
+				|then it will appear in both to make it easier and faster to
+				|access.
+
+		section
+			h2 Topics
+			ul
+				+liLink("./", "Baking")
+				+liLink("./", "Electrical Engineering")
+				+liLink("./", "Computer Science")
+				+liLink("./", "Mathematics")
+				+liLink("./", "Graphi Design")

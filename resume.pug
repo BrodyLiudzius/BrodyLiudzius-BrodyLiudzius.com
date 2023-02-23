@@ -1,0 +1,30 @@
+doctype html
+// Hello there, thanks for stopping by!
+html(lang="en_us")
+	head
+		block meta
+			include mixins/defaultMeta.pug
+
+		block title
+
+		block stylesheets
+			link(rel="stylesheet" type="text/css" href="/assets/stylesheets/default.css")
+			link(rel="stylesheet" type="text/css" href="/assets/stylesheets/pageColors/dark.css" title="Dark")
+			link(rel="alternate stylesheet" type="text/css" href="/assets/stylesheets/pageColors/light.css" title="Light")
+			link(rel="alternate stylesheet" type="text/css" href="/assets/stylesheets/pageColors/bamboo.css" title="Bamboo")
+			link(rel="stylesheet" type="text/css" href="/assets/stylesheets/accentColors/original.css")
+		block scripts
+			script(type="text/javascript" src="/assets/scripts/colorScheme.js")
+	body
+		//- #toDo: Everything
+		main
+			a(href="/") Home
+			h1 Brody Liudzius
+			h4 Computer Engineering Student
+
+			hr
+			h2 Skills
+			hr
+			h2 Education
+			hr
+			h2 Experience

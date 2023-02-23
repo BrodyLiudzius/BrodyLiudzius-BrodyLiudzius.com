@@ -1,0 +1,16 @@
+//- Creates a list item that is a link to the specified URL
+mixin liLink(link, text)
+	li
+		a(href=link)= text
+
+//- Somewhat unnecessary. Creates a section with the given title as a heading
+mixin section(title)
+	section()
+		h1= title
+		if block
+			block
+
+//- Inserts an image that the user can click on to enlarge
+mixin imageLink(imageURL, altText)
+	a(href=imageURL)
+		img(src=imageURL alt=altText)

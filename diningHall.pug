@@ -1,0 +1,22 @@
+extends mixins/defaultTemplate.pug
+
+block append meta
+	meta(http-equiv="refresh" content="3600")
+
+block title
+	title Dining Hall Menus
+
+block scripts
+	script(type="text/javascript" src="/assets/scripts/diningHallMenu.js" defer)
+
+block content
+	main
+		article
+			+section("Dining Hall Menus - Spring 2023")
+				p    This page will show todays menu for each dining hall at 
+					| CSULB. It is meant to be faster and easier to use than the 
+					a(href="https://www.csulb.edu/49er-shops-at-the-beach/residential-dining-menu-cycles") school website
+					| . The menus shown below are based off of what is posted
+					| on the school website which is not always 100% accurate to
+					| what is actually being served in the dining halls
+					| (but it should be close).

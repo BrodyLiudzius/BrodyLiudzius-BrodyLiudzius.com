@@ -1,0 +1,2448 @@
+[
+  [
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Pancakes M/W/S",
+          "Bacon",
+          "Tater Tots"
+        ],
+        "Hillside": [
+          "Pancakes M/W/S",
+          "Bacon",
+          "Hash Browns"
+        ],
+        "Parkside": [
+          "Pancakes M/W/S",
+          "Bacon",
+          "Cajun Potatoes"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Chicken Noodle Soup W",
+          "Buffalo Chicken Salad M/W/S",
+          "Indian Butter Chicken M",
+          "Stuffed Portobello Mushrooms",
+          "Chef Choice",
+          "Cuban Sandwich W/M",
+          "Meatlover Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Ravioli Italian Soup E/M/W",
+          "Chicken Noodle Soup W",
+          "Buffalo Chicken Salad M/W/S",
+          "Spicy Miso Pork Ramen E/F/W/S",
+          "Crispy Taquitos S/W",
+          "Stuffed Bell Peppers W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Kung Pao Chicken S"
+        ],
+        "Parkside": [
+          "Ravioli Italian Soup E/M/W",
+          "Chicken Noodle Soup W",
+          "Buffalo Chicken Salad M/W/S/E",
+          "Spicy Miso Pork Ramen E/F/W/S",
+          "Roasted Harissa Chicken",
+          "Stuffed Bell Peppers",
+          "Chef's Choice",
+          "Meatlover's Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Noodle Soup W",
+          "Buffalo Chicken Salad M/W/S",
+          "Chicken Pot Pie M/W",
+          "Meatless Pasta Bar W/S",
+          "Chef Choice",
+          "Pho Soup Bar S/W",
+          "Meatlover Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Ravioli Italian Soup E/M/W",
+          "Chicken Noodle Soup W",
+          "Buffalo Chicken Salad M/W/S",
+          "Chicken Tenders W",
+          "Texas Style Pork Ribs",
+          "Kung Pao Gardein Chicken S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Kung Pao Chicken S"
+        ],
+        "Parkside": [
+          "Ravioli Italian Soup E/M/W",
+          "Chicken Noodle Soup W",
+          "Buffalo Chicken Salad M/W/S/E",
+          "Chicken Tenders W",
+          "Texas Style Pork Ribs",
+          "Kung Pao Gardein Chicken S/W",
+          "Chef's Choice",
+          "Meatlover's Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Egg and Ham Croissant EM/W/S",
+          "Kielbasa",
+          "Home Style Potatoes"
+        ],
+        "Hillside": [
+          "Biscuit and Country Gravy M/W/S",
+          "Kielbasa S",
+          "Country Potatoes"
+        ],
+        "Parkside": [
+          "Biscuit and Country Gravy M/W/S",
+          "Kielbasa S",
+          "Hash Browns"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Italian Ravioli Soup W/M/E",
+          "Kale and Quinoa Salad",
+          "Beef Brisket",
+          "Edamame Fried Rice S/W",
+          "Chef Choice",
+          "Hamburger Bar W/M",
+          "BBQ Chicken Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Minestrone Soup W",
+          "Potato and Bacon Soup M/W/S",
+          "Kale and Quinoa Salad",
+          "Grilled Thai Chicken",
+          "Carnitas Sopes M",
+          "Pasta w/Gardein Meat Sauce S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Vegetables Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Minestrone Soup W",
+          "Corn Chowder M/S/W",
+          "Caesar Salad M/E/F",
+          "Grilled Thai Chicken",
+          "Breaded Fish Sandwich F/W/M",
+          "Baked Pasta w/ Gardein Meat Sauce S/W",
+          "Chef's Choice",
+          "Buffalo Chicken Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Italian Ravioli Soup w/ Vegetable W/M/E",
+          "Kale and Quinoa Salad",
+          "Spicy Honey Pork Chops",
+          "Roasted Tomato w/Quinoa and Brown rice",
+          "Chef Choice",
+          "Beef Burrito Bowl S/M",
+          "BBQ Chicken Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Minestrone Soup W",
+          "Potato and Bacon Soup M/W/S",
+          "Kale and Quinoa Salad",
+          "Meat Lasagna W/E/M/S",
+          "Roasted Harissa Chicken",
+          "Brown Rice and Quinoa w/Roasted Tomato",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Vegetables Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Minestrone Soup W",
+          "Corn Chowder Soup M/S/W",
+          "Caesar Salad M/E/F",
+          "Meat Lasagna W/E/M/S",
+          "Shrimp w/Vegetable Stir-Fry SF-C/S/W",
+          "Brown Rice and Quinoa w/Roasted Tomato",
+          "Chef's Choice",
+          "Buffalo Chicken Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Huevos Rancheros E/M",
+          "Chorizo Patty",
+          "Papas Ala Mexicana"
+        ],
+        "Hillside": [
+          "Chorizo and Egg Burrito E/W/S",
+          "Turkey Sausage Links",
+          "Tator Tots"
+        ],
+        "Parkside": [
+          "Soyrizo Chorizo,Egg, Potato and Cheese Burrito S/E/W/M",
+          "Turkey Sausage Links",
+          "Hash Brown Patty"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Egg Flower Soup E",
+          "RYO California Sushi F/E/W/S/SF-C",
+          "Orange Chicken W/S",
+          "Kung Pao Gardein Chicken S/W",
+          "Chef Choice",
+          "Bahn Mi Sandwich S/W",
+          "Diablo Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Corn Chowder M/S/W",
+          "Pork Pozole Rojo",
+          "Greek Salad M",
+          "Baked Ziti W/M",
+          "Grilled Beef Flank Steak w/Chimichurri Sauce",
+          "Gardein Orange Chicken S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Teriyaki Chicken Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Chicken and Poblano Chile Soup M/W",
+          "Pork Pozole",
+          "Greek Salad M",
+          "Baked Ziti W/M",
+          "Grilled Beef Flank Steak w/Chimichurri Sauce",
+          "Gardein Orange Chicken S/W",
+          "Chef's Choice",
+          "Pepperoni and Jalapeo Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Egg Flower Soup E",
+          "RYO California Sushi F/E/W/S/SF-C",
+          "Loco Moco M",
+          "Gardein Chicken and Broccoli S/W",
+          "Chef Choice",
+          "Udon Noodle Soup Bowl S/W",
+          "Diablo Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Corn Chowder Soup M/S/W",
+          "Pork Pozole Rojo",
+          "Greek Salad M",
+          "BBQ Chicken Sandwich W",
+          "Pork Chile Verde",
+          "Gardein Chicken Tenders S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Teriyaki Chicken Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Chicken and Poblano Chile Soup M/W",
+          "Pork Pozole",
+          "Greek Salad M",
+          "BBQ Chicken Sandwich W",
+          "Pork Chile Verde",
+          "Gardein Chicken Tenders S/W",
+          "Chef's Choice",
+          "Pepperoni and Jalapeo Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Biscuit and Country Gravy M/W/S",
+          "Sausage Patty",
+          "Country Potatoes"
+        ],
+        "Hillside": [
+          "French Toast E/M/W",
+          "Sausage Patty",
+          "Hash Brown Patty"
+        ],
+        "Parkside": [
+          "Sausage, Egg and Cheese Sandwich on English Muffin E/M/W",
+          "Sausage Patty",
+          "Tater Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Miso Soup w/ Mushrooms S/W",
+          "California Cobb Salad M/E/W",
+          "Cajun Chicken",
+          "Gardein Fajitas S/W",
+          "Chef Choice",
+          "BBQ Pulled Chicken Sandwich W/M",
+          "Hawaiian Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Chicken and Rice Soup",
+          "Tomato Basil Soup M/W",
+          "RYO California Sushi F/E/W/S/SF-C",
+          "Pasta Primavera W",
+          "Hamburger Bar W/M",
+          "Gardein Beef w/Black Pepper Sauce S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Spicy Pork S/W"
+        ],
+        "Parkside": [
+          "Chicken and Rice Soup",
+          "Tomato Basil Soup M/W",
+          "RYO California Sushi F/E/W/S/SF-C",
+          "Hamburger Bar M/W",
+          "Roasted Corn Batter Nugget Bites W/M",
+          "Gardein Beef w/Black Pepper Sauce S/W",
+          "Chef's Choice",
+          "Pesto Artichoke Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Miso Soup w/Mushrooms S/W",
+          "California Cobb Salad M/E/W",
+          "Chicken Parmesan M/W/S",
+          "Eggplant Parmesan",
+          "Chef Choice",
+          "Cold Sub Sandwich M/W",
+          "Hawaiian Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Chicken and Rice Soup",
+          "Tomato Basil Soup M/W",
+          "RYO California Sushi F/E/W/S/SF-C",
+          "Teriyaki Chicken W/S",
+          "Loaded Grilled Cheese Sandwich W/M/S",
+          "Vegetable Egg Rolls S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Spicy Pork S/W"
+        ],
+        "Parkside": [
+          "Chicken and Rice Soup",
+          "Tomato Basil Soup M/W",
+          "RYO California Sushi F/E/W/S/SF-C",
+          "Teriyaki Chicken W/S",
+          "Loaded Grilled Cheese Sandwich M/W/S",
+          "Stuffed Zucchini Boat",
+          "Chef's Choice",
+          "Pesto Artichoke Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Chorizo and Egg Burrito W/E/S",
+          "Turkey Sausage",
+          "Hashbrown Patty"
+        ],
+        "Hillside": [
+          "Sausage, Egg and Cheese English Muffin SandwichW/E/M/S",
+          "Bacon",
+          "Potatoes O'Brien"
+        ],
+        "Parkside": [
+          "French Toast E/M/W",
+          "Bacon",
+          "Potatoes O'Brien"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Clam Chowder M/W/SF",
+          "Spicy Cucumber Salad M",
+          "Korean Ribs S/W",
+          "Szechuan Tofu w/Peppers S/W",
+          "Chef Choice",
+          "Teriyaki Chicken Sandwich S/W",
+          "Vegetable Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Clam Chowder M/W/SF-C",
+          "Vegetable Noodle Soup W",
+          "Apple Walnut Salad TN",
+          "Lemon Pepper Salmon F",
+          "Moroccan Chicken w/Vegetables",
+          "Edamame Fried Rice S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Lemon Shrimp Stir Fry S/W/SF-C"
+        ],
+        "Parkside": [
+          "Clam Chowder M/W/SF-C",
+          "3 Bean Vegetarian Chili",
+          "Apple Walnut Salad TN",
+          "Lemon Pepper Salmon F",
+          "Moroccan Chicken w/Vegetables",
+          "Edamame Fried Rice S/W",
+          "Chef's Choice",
+          "Veggie Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Clam Chowder M/W/SF",
+          "Spicy Cucumber Salad M",
+          "Fish Tacos",
+          "Cheese Ravioli S",
+          "Chef Choice",
+          "Vegetable Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Clam Chowder M/W/SF-C",
+          "Vegetable Noodle Soup W",
+          "Apple Walnut Salad TN",
+          "Beef Red Chile Colorado",
+          "Fish and Chips F/W/M",
+          "Gardein Chicken and Broccoli W/S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Lemon Shrimp Stir Fry SF-C/S/W"
+        ],
+        "Parkside": [
+          "Clam Chowder M/W/SF-C",
+          "3 Bean Vegetarian Chili",
+          "Apple Walnut Salad TN",
+          "Beef Red Chile Colorado",
+          "Fish and Chips F/W/M",
+          "Gardein Chicken and Broccoli W/S",
+          "Chef's Choice",
+          "Veggie Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "Chocolate Chip Pancakes M/W/S",
+          "Grilled Ham",
+          "Tater Tots",
+          "Broccoli Cheddar Soup M/W/S",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "French Toast Sticks E/M/W",
+          "Kielbasa S",
+          "Tator Tots",
+          "Italian Wedding Soup W/S/M",
+          "Broccoli Cheddar Soup M/W/S",
+          "Yogurt Parfait Bar",
+          "Chef's Choice",
+          "Build Your Own Crepe"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Enchiladas S/W",
+          "Lentil Taco",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Italian Wedding Soup W/S/M",
+          "Broccoli Cheddar Soup M/W/S",
+          "Churros W",
+          "Beef and Cheese Enchiladas S/W/M",
+          "Pasta Bar W/M",
+          "Gardein Fajitas S/W",
+          "Mozzarella Sticks W/M"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "Cinnamon Rolls S/W",
+          "Little Smokies",
+          "Hash Browns",
+          "Chicken and Rice Soup",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Waffle Sticks E/M/S/W",
+          "Sausage Link",
+          "Hash Brown Patty",
+          "Beef Barley Soup W",
+          "Potato Chowder W/M/S",
+          "Smoothie of the Day",
+          "Chef's Choice"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken and Rice Soup",
+          "Beef Lasagna",
+          "Vegetable Lasagna",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Beef Barley Soup W",
+          "Potato Chowder W/M/S",
+          "Chicken Parmesan Sandwich M/W/S",
+          "Baked Tortellini w/Spinach E/M/W",
+          "Szechuan Tofu and Eggplant S/W"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Breakfast Sandwich on Naan Bread E/W/M",
+          "Turkey Sausage",
+          "Home Style Potatoes"
+        ],
+        "Hillside": [
+          "Pancakes M/W/S",
+          "Turkey Sausage",
+          "Southwestern Potatoes"
+        ],
+        "Parkside": [
+          "Pancakes M/W/S",
+          "Turkey Sausage",
+          "Tater Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Ravioli Italian Soup E/M/W",
+          "Pasta Salad W/M",
+          "Beef Stroganoff W/M",
+          "Veggie Shepherd's Pie",
+          "Chef Choice",
+          "Club Sandwich W/M",
+          "Mexican Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Chicken Gumbo Soup E/M/S/W/F",
+          "Butternut Squash Soup M",
+          "Pesto Tortellini Salad M/W/E",
+          "Breaded Chicken Creamy Chipotle Pasta M/W",
+          "Beef Tri Tip w/ Caramelized Onions",
+          "The Buddha Bowl",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Char Sui Pork Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Chicken Gumbo Soup E/M/S/W/F",
+          "Miso Soup F/S",
+          "Pesto Tortellini Salad M/W/E",
+          "Breaded Chicken Creamy Chipotle Pasta W/M",
+          "Beef Tri Tip w/ Mustard Sauce W/M",
+          "The Buddha Bowl",
+          "Chef's Choice",
+          "BBQ Chicken Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Ravioli Italian Soup E/M/W",
+          "Pasta Salad W/M",
+          "Chicken Birria",
+          "Gardein Chile Verde S/W",
+          "Chef Choice",
+          "Asada Nacho M",
+          "Mexican Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Chicken Gumbo Soup E/M/S/W/F",
+          "Butternut Squash Soup M",
+          "Pesto Tortellini Salad M/W/E",
+          "Beef Taquitos S/W",
+          "Butter Chicken M",
+          "Creamy Vegan Cauliflower Mac and Cheese W",
+          "Chef' Choice",
+          "Build Your Own Grain Bowl",
+          "Char Sui Pork Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Chicken Gumbo Soup E/M/S/W/F",
+          "Miso Soup F/S",
+          "Pesto Tortellini Salad M/W/E",
+          "Beef Taquitos S/W",
+          "Grilled Chicken Bowl",
+          "Vegan Creamy Mac and Cheese W/S",
+          "Chef' Choice",
+          "BBQ Chicken Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Bacon Fried Rice S/W",
+          "Kielbasa",
+          "Hash Brown Patty"
+        ],
+        "Hillside": [
+          "Chilaquiles M",
+          "Bacon",
+          "Hash Browns"
+        ],
+        "Parkside": [
+          "Chilaquiles M",
+          "Bacon",
+          "Hash Browns"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Chicken Noodle Soup E/W",
+          "Pesto Caesar Salad M/W",
+          "Fried Chicken/Baked W/S",
+          "Cauliflower Mac and Cheese",
+          "Chef Choice",
+          "Taco Tuesday",
+          "Vegetable Calzone M/S/W"
+        ],
+        "Hillside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken Tortilla Soup S/W",
+          "Cobb Salad M/E",
+          "Filipino Pork S/W",
+          "Beef Hot Dog Bar W/M",
+          "Vegetable Tangine w/Brown Rice",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Mongolian Stir Fry Chicken S/W"
+        ],
+        "Parkside": [
+          "Chicken Tortilla Soup S/M",
+          "Cobb Salad M/E/S",
+          "Filipino Pork S/W",
+          "Beef Hot Dog Bar W/M",
+          "Vegetable Tangine w/ Brown Rice",
+          "Chef's Choice",
+          "Creamy Garlic Ricotta Flatbread Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Noodle Soup E/W",
+          "Pesto Caesar Salad M/W",
+          "Swedish Meatballs S/W/M",
+          "Gardein Fish and Chips",
+          "Chef Choice",
+          "Buffalo Chicken Wrap M",
+          "Vegetable Calzone M/S/W"
+        ],
+        "Hillside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken Tortilla Soup S/W",
+          "Cobb Salad M/E",
+          "Chicken and Black Pepper Sauce S/W",
+          "Nacho Bar M",
+          "Fried Avocado Tacos W/M/S/E",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Mongolian Stir Fry Chicken S/W"
+        ],
+        "Parkside": [
+          "Vegan Tosana Soup",
+          "Chicken Tortilla Soup S/M",
+          "Cobb Salad M/E/S",
+          "Chicken and Black Pepper Sauce S/W",
+          "Nacho Bar M",
+          "Spicy Korean Tofu Bowl S/W",
+          "Chef's Choice",
+          "Creamy Garlic Ricotta Flatbread Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Breakfast Burrito E/W/M",
+          "Pork Links",
+          "Country Potatoes"
+        ],
+        "Hillside": [
+          "Breakfast Burrito E/M/W",
+          "Pork Links",
+          "Country Potatoes"
+        ],
+        "Parkside": [
+          "Egg, Potato and Cheese Breakfast Burrito E/W/M",
+          "Pork Links",
+          "Spicy Potatoes"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Corn Chowder M/S/W",
+          "Pho Salad S/W",
+          "Flank Steak w/Chimichurri Sauce",
+          "Manicotti w/Pesto Kale Sauce W/M",
+          "Chef Choice",
+          "Ortega Sandwich W/M",
+          "Buffalo Chicken Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Tomato Basil Soup M/W",
+          "Chicken Noodle Soup W",
+          "RYO Spicy California Sushi F/E/W/S/SF-C",
+          "Orange Chicken Bowl S/W",
+          "Pasta Beef Bolognese W",
+          "Tofu w/White Bean Stew S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Black Pepper Beef Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Tomato Basil Soup M/W",
+          "Chicken Noodle Soup W",
+          "RYO Spicy California Sushi F/E/W/S/SF-C",
+          "Orange Chicken Bowl W/S",
+          "Pasta Beef Bolognese W",
+          "Tofu w/White Bean Stew S",
+          "Chef's Choice",
+          "Taco Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Corn Chowder M/S/W",
+          "Pho Salad S/W",
+          "Tandoori Chicken M",
+          "Moroccan Lentil",
+          "Chef Choice",
+          "Tater Tots Chili Bar M/W",
+          "Buffalo Chicken Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Tomato Basil Soup M/W",
+          "Chicken Noodle Soup W",
+          "RYO Spicy California Sushi F/E/W/S/SF-C",
+          "Cajun Fish F",
+          "Beef Bulgogi Fries W/S/M",
+          "Gardein Beef Fajitas S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Black Pepper Beef Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Tomato Basil Soup M/W",
+          "Chicken Noodle Soup W",
+          "RYO Spicy California Sushi F/E/W/S/SF-C",
+          "Cajun Fish F",
+          "Beef Bulgogi Fries W/S/M",
+          "Black Bean Enchilada Casserole S",
+          "Chef's Choice",
+          "Taco Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Egg, Spinach and Cheese on a Croissant E/M/W/S",
+          "Little Smokies",
+          "Hash Browns"
+        ],
+        "Hillside": [
+          "Biscuit and Country Gravy M/W/S",
+          "Turkey Bacon",
+          "Hash Brown Patty"
+        ],
+        "Parkside": [
+          "French Toast E/M/W",
+          "Turkey Bacon",
+          "Tator Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Potato and Bacon Soup M/W/S",
+          "Spicy Korean Salad F/W/S",
+          "Chicken Bacon Alfredo Pasta M/W",
+          "Gardein Meatball Pasta S/W",
+          "Chef Choice",
+          "Grilled Ham and Cheese Sandwich W/M",
+          "Pastrami Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Potato Leek Soup M/W/S",
+          "Caldo de Res",
+          "Brown Rice and Quinoa Kale Salad",
+          "BBQ Pulled Pork Sandwich W",
+          "Fried Chicken w/Mashed Potatoes W/M",
+          "Gardein Chicken Stir Fry S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Sour Chicken Stir Fry W/S"
+        ],
+        "Parkside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Caldo de Res",
+          "Brown Rice and Quinoa Kale Salad",
+          "BBQ Pulled Pork Sandwich W",
+          "Beef and Potato Quesadilla W/M",
+          "Gardein Chicken Stir Fry S/W",
+          "Chef's Choice",
+          "Ranch Chicken Bacon Pizza W/M/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Potato and Bacon Soup M/W/S",
+          "Spicy Korean Salad F/W/S",
+          "Teriyaki Chicken S/W",
+          "Gardein Beef Teriyaki S/W",
+          "Chef Choice",
+          "Asada Burrito M/W/S",
+          "Pastrami Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Potato Leek Soup M/W/S",
+          "Caldo de Res",
+          "Brown Rice and Quinoa Kale Salad",
+          "Mac and Cheese M/W/S",
+          "Chipotle Chicken Bowl",
+          "Vegetable Barley Stew W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Sour Chicken Stir Fry W/S"
+        ],
+        "Parkside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Caldo de Res",
+          "Brown Rice and Quinoa Kale Salad",
+          "Mac and Cheese M/W/S",
+          "Beef Pho S/W/F",
+          "Gardein Beef and Onions S/W",
+          "Chef's Choice",
+          "Ranch Chicken Bacon Pizza W/M/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Chilaquiles Verdes M",
+          "Grilled Breakfast Steak",
+          "Papas Ala Mexicana"
+        ],
+        "Hillside": [
+          "Ham, Egg and Cheese on Croissant Sandwich E/W/M/S",
+          "Lil Smokies",
+          "Potatoes O'Brien"
+        ],
+        "Parkside": [
+          "Egg, Ham and Cheese Sandwich on Croissant E/W/M/S",
+          "Lil Smokies",
+          "Potatoes O'Brien"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Clam Chowder M/SF-C/W",
+          "Spanish Potato Salad E/M",
+          "White Fish w/Roasted Bell Pepper Sauce F/M",
+          "Edamame Fried Rice S/W",
+          "Chef Choice",
+          "Crispy Onion Burger W/M",
+          "BLT Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Minestrone Soup W",
+          "Clam Chowder M/W/SF-C",
+          "Elote in a Cup E/M",
+          "Fish Tacos F/E",
+          "Chicken Shawarma Bowl M",
+          "Thai Curry Tofu S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Broccoli Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Moroccan Lentil Soup",
+          "Clam Chowder M/W/SF-C",
+          "Caprese Salad M",
+          "Fish Tacos F/E",
+          "Chicken Shawarma Bowl M",
+          "Thai Curry Tofu S",
+          "Chef's Choice",
+          "Hawaiian Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Clam Chowder M/SF-C/W",
+          "Spanish Potato Salad E/M",
+          "Shrimp Pasta SF/M",
+          "Roasted Tofu and Edamame S/W",
+          "Chef Choice",
+          "BLT Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Minestrone Soup W",
+          "Clam Chowder M/W/SF-C",
+          "Elote in a Cup E/M",
+          "Wings and Things W",
+          "Salmon Florentine F/M/W",
+          "Asian Noodles w/ Vegetables W/S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Broccoli Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Moroccan Lentil Soup",
+          "Clam Chowder M/W/SF-C",
+          "Caprese Salad M",
+          "Wings and Things W",
+          "Salmon Florentine F/M/W",
+          "Asian Noodles w/Vegetables and Tofu W/S",
+          "Chef's Choice",
+          "Hawaiian Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "French Toast E/W/M",
+          "Grilled Ham",
+          "Tater Tots",
+          "Tomato Basil Soup M/W",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Pancakes M/W/S",
+          "Bacon",
+          "Tator Tots",
+          "Vegetarian Chili W",
+          "Miso Soup F/S",
+          "Smoothie Bar",
+          "Chef's Choice",
+          "Build Your Own Crepe"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Tomato Basil Soup M/W",
+          "Chicken Fried Steak W/S/M",
+          "Cheese Ravioli E/M/W",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Vegetarian Chili W",
+          "Miso Soup F/S",
+          "Chips and Salsa Bar",
+          "Chicken Barbacoa Taco",
+          "Shrimp Pesto Pasta SF-C/W/M",
+          "Gardein Enchilada Scolopine S/W",
+          "Stuffed Pasta Shells M/W/E"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "Chocolate Chip Pancakes M/W/S",
+          "Sausage Patty",
+          "Hash Brown Patty",
+          "Beef Barley Soup W",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Chocolate Chip Pancakes M/W/S",
+          "Sausage Patty",
+          "Hash Brown Patty",
+          "Beef and Rice Soup",
+          "Vegetable Noodle Soup W",
+          "Fresh Juice of the Day",
+          "Chef's Choice"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Beef Barley Soup W",
+          "Lemongrass Chicken W/S",
+          "Curry Chickpea Vegetables TN",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Beef and Rice Soup",
+          "Vegetable Noodle Soup W",
+          "Sweet and Spicy Pork S/W",
+          "Paprika Chicken Drumstick",
+          "Ratatouille"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Ham, Egg and Cheese Sandwich on White Bread M/E/S",
+          "Kielbasa Sausage S",
+          "Country Potatoes"
+        ],
+        "Hillside": [
+          "French Toast E/M/W",
+          "Kielbasa S",
+          "Hash Browns"
+        ],
+        "Parkside": [
+          "French Toast E/M/W",
+          "Kielbasa S",
+          "Hash Browns"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Chicken Tortilla Soup E/M/W",
+          "BLT Salad",
+          "Chicken Marsala M/W",
+          "Gardein Chicken Marsala",
+          "Chef Choice",
+          "Gyro Sandwich W/M",
+          "Supreme Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken and Rice Soup",
+          "Citrus Kale Salad",
+          "Hamburger Bar W",
+          "Salmon Burger F/W",
+          "Pasta alla Norma W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Teriyaki Pork Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken and Rice Soup",
+          "Citrus Kale Salad",
+          "Hamburger Bar W/M",
+          "Salmon Burger F/W",
+          "Pasta Alla Norma W",
+          "Chef's Choice",
+          "Supreme Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Tortilla Soup E/M/W",
+          "BLT Salad",
+          "Pork w/Chile Verde and Nopales",
+          "Fried Avocado Tacos W/S",
+          "Chef Choice",
+          "Burrito Bowl M",
+          "Supreme Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken and Rice Soup",
+          "Citrus Kale Salad",
+          "Beijing Beef S/W/SF-C",
+          "BBQ Chicken Flatbread W/M",
+          "Kung Pao Tofu S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Teriyaki Pork Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken and Rice Soup",
+          "Citrus Kale Salad",
+          "Beijing Beef S/W/SF-C",
+          "Wet Turkey Burrito W/M",
+          "Kung Pao Tofu S",
+          "Chef's Choice",
+          "Supreme Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Breakfast Burrito E/W/M",
+          "Bacon",
+          "Potatoes O' Brien"
+        ],
+        "Hillside": [
+          "Sausage, Egg and Cheese English Muffin Sandwich W/E/M/S",
+          "Bacon",
+          "Tator Tots"
+        ],
+        "Parkside": [
+          "Sausage, Egg and Cheese Sandwich on English Muffin W/E/M/S",
+          "Bacon",
+          "Cottage Fries"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Cream of Broccoli Soup M/S/W",
+          "Cobb Salad E/M",
+          "Flank Steak w/Onions",
+          "Pasta w/Gardein Meat Sauce S/W",
+          "Chef Choice",
+          "Chicken Shawarma Sandwich W/M",
+          "Caprese Flat Bread Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Italian Wedding Soup S/W/M",
+          "Vegetable Noodle Soup W",
+          "Cauliflower Ceviche",
+          "Mongolian Chicken Drumstick W/S",
+          "Beef Fajitas",
+          "Gardein Meatball Pasta S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Lemon Chicken Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Miso Soup F/S",
+          "Minestrone Soup W",
+          "Cauliflower Ceviche",
+          "Mongolian Chicken Drumstick W/S",
+          "Beef Fajitas",
+          "Gardein Meatball Sub Sandwich W/S",
+          "Chef's Choice",
+          "Carne Asada Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Cream of Broccoli Soup M/S/W",
+          "Cobb Salad E/M",
+          "Sweet and Sour Chicken S/W",
+          "Tofu Fried Rice S/W",
+          "Chef Choice",
+          "Sushi Bowl M/E",
+          "Caprese Flat Bread Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Italian Wedding Soup S/W/M",
+          "Vegetable Noodle Soup W",
+          "Cauliflower Ceviche",
+          "Pasta Alfredo w/Broccoli W/M",
+          "Popcorn Chicken Bowl W/M",
+          "Gardein Beef Teriyaki Bowl S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Lemon Chicken Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Miso Soup F/S",
+          "Minestrone Soup W",
+          "Cauliflower Ceviche",
+          "Philly Cheese Steak Sandwich M/W",
+          "Popcorn Chicken Bowl W/M",
+          "Gardein Beef Teriyaki Bowl S/W",
+          "Chef's Choice",
+          "Carne Asada Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Avocado Toast E/W/M",
+          "Spam Hash",
+          "Tater Tots"
+        ],
+        "Hillside": [
+          "Hawaiian Breakfast E",
+          "SPAM/Ham",
+          "Country Potatoes/Rice"
+        ],
+        "Parkside": [
+          "Hawaiian Breakfast E",
+          "SPAM",
+          "Country Potatoes/Rice"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Pork Pozole",
+          "Apple Walnut Salad TN",
+          "Baked Chicken w/Lemon Sauce",
+          "Gardein Beef Tips w/Sweet and Sour Sauce",
+          "Chef Choice",
+          "Meatlover Sandwich W/M",
+          "Carne Asada Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Tomato Basil Soup M/W",
+          "Beef and Barley Soup W",
+          "RYO Veggie Sushi",
+          "Meatloaf W/E",
+          "Tandoori Chicken W/M/S",
+          "Potato and Cauliflower Curry",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Crispy Orange Beef Stir-Fry S/W/SF-C"
+        ],
+        "Parkside": [
+          "Tomato Basil Soup M/W",
+          "Vegetable Noodle Soup W",
+          "RYO Spicy Tuna Sushi F/S/W",
+          "Meatloaf W/E",
+          "Tandoori Chicken W/M/S",
+          "Potato and Cauliflower Curry",
+          "Chef's Choice",
+          "Roasted Butternut Squash w/Bacon and Caramelized Onion Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Pork Pozole",
+          "Apple Walnut Salad TN",
+          "Mongolian Beef Stir Fry w/ Vegetables",
+          "Thai Chickpea Curry S",
+          "Chef Choice",
+          "Taquito Station M/S/W",
+          "Carne Asada Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Tomato Basil Soup M/W",
+          "Beef and Barley Soup W",
+          "RYO Veggie Sushi",
+          "Pasta Bar W/M",
+          "Herb Roasted Turkey",
+          "Lentil Taco",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Crispy Orange Beef Stir-Fry S/W/SF-C"
+        ],
+        "Parkside": [
+          "Tomato Basil Soup M/W",
+          "Vegetable Noodle Soup W",
+          "RYO Spicy Tuna Sushi F/S/W",
+          "Pasta Bar W/M",
+          "Mozzarella Sticks w/Marinara Sauce M/W",
+          "Lentil Tacos",
+          "Chef's Choice",
+          "Roasted Butternut Squash w/Bacon and Caramelized Onion Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Egg Fried Rice S/W",
+          "Pork Links",
+          "Hash Browns"
+        ],
+        "Hillside": [
+          "Blueberry Pancakes M/W/S",
+          "Pork Links",
+          "Hash Brown Patty"
+        ],
+        "Parkside": [
+          "Blueberry Pancakes M/W/S",
+          "Pork Links",
+          "Tater Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Italian Ravioli Soup E/M/W",
+          "Greek Salad w/Chicken M",
+          "Orange Chicken W/S",
+          "Gardein Broccoli Beef S/W",
+          "Chef Choice",
+          "Italian Sub Sandwich M/W",
+          "BBQ Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Potato Chowder W/M/S",
+          "Chicken Pozole Verde",
+          "Chicken Taco Salad M/W/E",
+          "Cheese Ravioli w/Creamy Tomato Sauce W/E/M",
+          "BBQ Pork Ribs",
+          "Lentil Chili Mac W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Kung Pao Chicken S"
+        ],
+        "Parkside": [
+          "Potato Chowder W/M/S",
+          "Chicken Pozole w/ Tomatillo",
+          "Chicken Taco Salad M/W/E",
+          "Cheese Ravioli w/ Creamy Tomato Sauce W/E/M",
+          "BBQ Pork Ribs",
+          "Gardein Beef Burrito W/S",
+          "Chef's Choice",
+          "Buffalo Chicken Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Italian Ravioli Soup E/M/W",
+          "Greek Salad w/Chicken M",
+          "Wing and Things",
+          "Gardein Wings S/W",
+          "Chef Choice",
+          "Asada Fries S/W",
+          "BBQ Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Potato Chowder W/M/S",
+          "Chicken Pozole Verde",
+          "Chicken Taco Salad M/W/E",
+          "Tuna Melt Sandwich F/W/E/M/S",
+          "Cowboy Beef Flank Steak",
+          "Tofu Fried Rice and Vegetables S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Kung Pao Chicken S"
+        ],
+        "Parkside": [
+          "Potato Chowder W/M/S",
+          "Chicken Pozole w/ Tomatillo",
+          "Chicken Taco Salad M/W/E",
+          "Turkey Pesto Flatbread Sandwich M/W/E",
+          "Cowboy Beef Flank Steak",
+          "Tofu and Vegetables Fried Rice S/W",
+          "Chef's Choice",
+          "Buffalo Chicken Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Sausage, Egg and Cheese Sandwich English Muffin W/E/M/S",
+          "Turkey Sausage",
+          "Papas Ala Mexicana"
+        ],
+        "Hillside": [
+          "Breakfast Burrito E/W/M",
+          "Turkey Sausage",
+          "Southwestern Potatoes"
+        ],
+        "Parkside": [
+          "Egg, Potato and Cheese Breakfast Burrito E/W/M",
+          "Turkey Sausage",
+          "Potatoes O'Brien"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Clam Chowder SF / M / W",
+          "Buffalo Chicken Salad M/W/S",
+          "Lemon Pepper Tilapia F/W",
+          "Tofu and Long Beans Stir Fry S/W",
+          "Chef Choice",
+          "Fish Sandwich F/W",
+          "Cheeseburger Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Minestrone Soup W",
+          "Clam Chowder M/W/SF-C",
+          "Arugula Salad M",
+          "Street Beef Hot Dog W",
+          "Firecracker Salmon F/S/W",
+          "Szechuan Tofu and Veggies S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Spicy Beef Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Italian Wedding Soup S/W/M",
+          "Clam Chowder M/W/SF-C",
+          "Arugula Salad M",
+          "Street Beef Hot Dog W",
+          "Firecracker Salmon F/S/W",
+          "Szechuan Tofu and Veggies S/W",
+          "Chef's Choice",
+          "Caprese Flatbread Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Clam Chowder SF / M / W",
+          "Buffalo Chicken Salad M/W/S",
+          "White fish w/ Mango Salsa F",
+          "Baked Ziti W",
+          "Chef Choice",
+          "Cheeseburger Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Minestrone Soup W",
+          "Clam Chowder M/W/SF-C",
+          "Arugula Salad M",
+          "Lemon Chicken W/S",
+          "Shrimp Scampi SF-C/M/W",
+          "Pasta w/Gardein Meat Sauce S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Spicy Beef Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Italian Wedding Soup S/W/M",
+          "Clam Chowder M/W/SF-C",
+          "Arugula Salad M",
+          "Lemon Chicken W/S",
+          "Shrimp Scampi SF-C/W/M",
+          "Pasta w/Gardein Meat Sauce S/W",
+          "Chef's Choice",
+          "Caprese Flatbread Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "Blueberry Pancakes M/W/S",
+          "Bacon",
+          "Home Fries",
+          "Baked Potato Soup M/S/W",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Waffle Sticks E/M/S/W",
+          "Bacon",
+          "Tator Tots",
+          "Chicken Gumbo E/M/S/W/F",
+          "Miso Soup F/S",
+          "Juice Bar",
+          "Chef's Choice",
+          "Build Your Own Crepe"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Baked Potato Soup M/S/W",
+          "Herb Roasted Chicken",
+          "Crispy Tofu w/Noodles",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Chicken Gumbo E/M/S/W/F",
+          "Miso Soup F/S",
+          "Italian Pasta Salad W",
+          "Steak Quesadilla M/W",
+          "Buffalo Chicken Tenders W",
+          "Chana Masala Chickpeas",
+          "Baked Ziti W/M"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "French Toast E/M/W",
+          "Sausage Links",
+          "Hash Brown Patty",
+          "Ham and Split Pea Soup",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "French Toast Sticks E/M/W/S",
+          "Sausage Links",
+          "Hash Brown Patty",
+          "Potato Leek Soup M/S/W",
+          "Albondigas Soup",
+          "Yogurt Parfait Bar W/M",
+          "Chef's Choice"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Ham and Split Pea Soup",
+          "Beef Enchiladas",
+          "Cheese Enchiladas",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Potato Leek Soup M/S/W",
+          "Albondigas Soup",
+          "Irish Nacho Bar M",
+          "Chicken Bacon Alfredo Pasta W/M",
+          "Gardein Beef Fajitas S/W"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Chilaquiles Verdes M",
+          "Grilled Breakfast Steak",
+          "Tater Tots"
+        ],
+        "Hillside": [
+          "Chocolate Chip Pancakes M/W/S",
+          "Sausage Patty",
+          "Country Potatoes"
+        ],
+        "Parkside": [
+          "Chocolate Chip Pancakes M/W/S",
+          "Sausage Patty",
+          "Tater Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Chicken Polenta w/ Spinach Soup",
+          "Mandarin Spinach Salad S/W",
+          "Chicken Shawarma W/M/E",
+          "Meatless Shawarma S/W",
+          "Chef Choice",
+          "Street Dog Bar M/S",
+          "CheeseBurger Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Moroccan Lentil Stew",
+          "Chicken Noodle Soup W/E",
+          "Mandarin Spinach Salad S/W",
+          "Pesto Alfredo Tortellini M/W/E",
+          "Chicken Fajitas",
+          "Vegan Cauliflower Tacos",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Mongolian Stir Fry Chicken S/W"
+        ],
+        "Parkside": [
+          "Ravioli Italian Soup E/M/W",
+          "Chicken Noodle Soup W",
+          "Mandarin Spinach Salad W/S",
+          "Pesto Alfredo Tortellini M/W/E",
+          "Chicken Fajitas",
+          "Vegan Cauliflower Tacos",
+          "Chef's Choice",
+          "Sausage and Mushroom Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Polenta w/ Spinach Soup",
+          "Mandarin Spinach Salad S/W",
+          "Meatloaf W/E",
+          "Lentil Meatloaf",
+          "Chef Choice",
+          "Chili Cheese Tater Tots",
+          "CheeseBurger Pizza S/W/M"
+        ],
+        "Hillside": [
+          "Moroccan Lentil Stew",
+          "Chicken Noodle Soup W/E",
+          "Mandarin Spinach Salad S/W",
+          "Kahlua Pork Bowl",
+          "Pasta w/Turkey Meat Sauce W",
+          "Thai Chickpea Curry S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Mongolian Stir Fry Chicken S/W"
+        ],
+        "Parkside": [
+          "Ravioli Italian Soup E/M/W",
+          "Chicken Noodle Soup W",
+          "Mandarin Spinach Salad W/S",
+          "Kahlua Pork Bowl S/W",
+          "Pasta w/Turkey Meat Sauce W",
+          "Thai Chickpea Curry",
+          "Chef's Choice",
+          "Sausage and Mushroom Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Chocolate Chip Pancakes M/W/S",
+          "Sausage Patty",
+          "Hash Browns"
+        ],
+        "Hillside": [
+          "Chilaquiles M",
+          "Pork Links",
+          "Hash Browns"
+        ],
+        "Parkside": [
+          "Chilaquiles M",
+          "Pork Links",
+          "Hash Browns"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Turkish Lentil Soup",
+          "Korean Potato Salad",
+          "Beef Flank Steak w/Chimichurri Sauce",
+          "Pesto Alfredo Tortellini M/W/E",
+          "Chef Choice",
+          "Carnitas Torta M/W",
+          "Shrimp and Bacon Pizza S/W/M/SF"
+        ],
+        "Hillside": [
+          "Corn Chowder M/S/W",
+          "Chicken Tortilla Soup W/S",
+          "BBQ Chicken Salad M",
+          "Chicken Shawarma W/M/E",
+          "Pork Udon W/F/E/S",
+          "Edamame Fried Rice S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Vegetables Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Vegan Toscana Soup",
+          "Chicken Tortilla Soup M/S",
+          "BBQ Chicken Salad M/E/S",
+          "Tuna Melt Sandwich F/E/M/W",
+          "Pork Udon W/F/S/E",
+          "Edamame Fried Rice S/W",
+          "Chef's Choice",
+          "Hawaiian Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Turkish Lentil Soup",
+          "Korean Potato Salad M",
+          "Korean Ribs S/W",
+          "Vegan Cauliflower Taco",
+          "Chef Choice",
+          "Asada Fries M/E",
+          "Shrimp and Bacon Pizza S/W/M/SF"
+        ],
+        "Hillside": [
+          "Corn Chowder M/S/W",
+          "Chicken Tortilla Soup W/S",
+          "BBQ Chicken Salad M",
+          "Kimchi Fried Rice w/Beef S/W/F/SF-C",
+          "Italian Sausage Sub W",
+          "Sweet Potato Patties E/M/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Vegetables Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Vegan Toscana Soup",
+          "Chicken Tortilla Soup M/S",
+          "BBQ Chicken Salad M/E/S",
+          "Kimchi Fried Rice w/Beef S/W/F",
+          "Italian Sausage Sub Sandwich W/M",
+          "Gardein Chicken Alfredo Pasta S/W",
+          "Chef's Choice",
+          "Hawaiian Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "French Toast E/M",
+          "Turkey Sausage",
+          "Country Potatoes"
+        ],
+        "Hillside": [
+          "French Toast E/M/W",
+          "Turkey Sausage",
+          "Tator Tots"
+        ],
+        "Parkside": [
+          "Pancakes E/M/W",
+          "Turkey Sausage",
+          "Country Potatoes"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Caldo de Res",
+          "Lemon Basil Pasta Salad M/W",
+          "Yucatan Chicken",
+          "Edamame Fried Rice S/W",
+          "Chef Choice",
+          "Chicken Kabobs",
+          "Chicken Fajita Empanadas S/W/M"
+        ],
+        "Hillside": [
+          "Cream of Broccoli Soup M/W/S",
+          "Albondigas Soup",
+          "Lemon Basil Pasta Salad M/W",
+          "Hamburgers W",
+          "Crispy Chicken Japanese Curry Bowl W/S",
+          "Vegetable Strudel W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Sour Pork Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Moroccan Lentil Soup",
+          "The Wedge Salad M",
+          "Beef Sliders W",
+          "Japanese Curry Bowl W/S/M",
+          "Vegetable Strudel W",
+          "Chef's Choice",
+          "Chicken Fajita Empanada S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Caldo de Res",
+          "Lemon Basil Pasta Salad M/W",
+          "Teriyaki Chicken S/W",
+          "Gardein Teriyaki Beef",
+          "Chef Choice",
+          "Irish Nachos M",
+          "Chicken Fajita Empanadas S/W/M"
+        ],
+        "Hillside": [
+          "Cream of Broccoli Soup M/W/S",
+          "Albondigas Soup",
+          "Lemon Basil Pasta Salad M/W",
+          "Teriyaki Chicken S/W",
+          "Crispy Fish Po Boy Sandwich F/W",
+          "Teriyaki Tofu S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Sour Pork Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Broccoli Cheddar Soup M/W/S",
+          "Moroccan Lentil Soup",
+          "The Wedge Salad M",
+          "Teriyaki Chicken S/W",
+          "Crispy Fish Po Boy Sandwich M/F/W/E",
+          "Teriyaki Tofu S/W",
+          "Chef's Choice",
+          "Chicken Fajita Empanada S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Bacon Fried Rice S/W",
+          "Lil Smokies",
+          "Potatoes O' Brien"
+        ],
+        "Hillside": [
+          "Breakfast Quesadilla E/W/M",
+          "Lil Smokies",
+          "Hash Brown Patty"
+        ],
+        "Parkside": [
+          "Turkey, Egg and Cheese Breakfast Sandwich on Naan Bread E/W/M/S",
+          "Lil Smokies",
+          "Tater Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Cream of Potato Soup M/S/W",
+          "Fried Chicken Salad M/W/S",
+          "Shrimp Alfredo Pasta SF/M/E/W",
+          "Vegetable Strudel W",
+          "Chef Choice",
+          "Beef/Chicken Sliders M/W",
+          "Carne Asada Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Vegetable Noodle Soup W",
+          "Tomato Basil Soup M/W",
+          "Israeli Couscous on Arugula W",
+          "Pasta Arrabiata W",
+          "Loaded Grilled Cheese Sandwich W/M",
+          "Gardein Beef w/Black Pepper Sauce S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Spicy Chicken Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Vegetable Noodle Soup W",
+          "Tomato Basil Soup M/W",
+          "Bacon Ranch Potato Salad M/E/S",
+          "Pasta Arrabiata W",
+          "Beef Flank Steak w/Chimichurri Sauce",
+          "Gardein Beef w/Black Pepper Sauce S/W",
+          "Chef's Choice",
+          "Cheeseburger Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Cream of Potato Soup M/S/W",
+          "Fried Chicken Salad M/W/S",
+          "Herb Chicken",
+          "Pasta w/Gardein Sauce",
+          "Chef Choice",
+          "Carnita Bowl",
+          "Carne Asada Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Vegetable Noodle Soup W",
+          "Tomato Basil Soup M/W",
+          "Israeli Couscous on Arugula W",
+          "Taco Bar M/W",
+          "Beef Flank Steak w/Chimichurri Sauce",
+          "Gardein Chicken Fajitas S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Spicy Chicken Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Vegetable Noodle Soup W",
+          "Tomato Basil Soup M/W",
+          "Bacon Ranch Potato Salad M/E/S",
+          "Taco Bar",
+          "Nacho Bar M/W",
+          "Gardein Chicken Fajitas S/W",
+          "Chef's Choice",
+          "Cheeseburger Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Eggs Benedict E/M/W",
+          "Bacon",
+          "Home Style Potatoes"
+        ],
+        "Hillside": [
+          "Ham, Egg and Cheese English Muffin Sandwich E/W/M/S",
+          "Bacon",
+          "Home Style Potatoes"
+        ],
+        "Parkside": [
+          "Ham, Egg and Cheese Sandwich on English Muffin E/M/W/S",
+          "Bacon",
+          "Hash Browns"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Clam Chowder SF/M/W",
+          "BBQ Chicken Salad M/E",
+          "Creamy Tuscan Salmon F/M",
+          "Enchiladas Suizas M/W",
+          "Chef Choice",
+          "Grilled Ham and Cheese Sandwich W/M",
+          "Hawaiian Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Clam Chowder M/W/SF-C",
+          "Ravioli Italian Soup E/M/W",
+          "Tuna Rotini Pasta Salad E/W/F",
+          "Yucatan Chicken Grain Bowl",
+          "Shrimp Alfredo SF-C/M/E/W",
+          "Pineapple Thai Fried Rice w/Gardein Chicken TN/S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Lemon Shrimp Stir Fry SF-C/S/W"
+        ],
+        "Parkside": [
+          "Clam Chowder M/W/SF-C",
+          "Vegetarian Chili W",
+          "Fried Chicken Salad M/W/S/E",
+          "Yucatan Chicken Grain Bowl",
+          "Shrimp Alfredo M/W/SF-C",
+          "Black Bean Enchilada Casserole S",
+          "Chef's Choice",
+          "Veggie Pizza S/W/M"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Clam Chowder SF/M/W",
+          "BBQ Chicken Salad M/W",
+          "Beef and Broccoli S",
+          "Tahini Curry Tofu S/W",
+          "Chef Choice",
+          "Hawaiian Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Clam Chowder M/W/SF-C",
+          "Ravioli Italian Soup E/M/W",
+          "Tuna Rotini Pasta Salad E/W/F",
+          "Orange Chicken S/W",
+          "Lemon Pepper Tilapia F",
+          "Gardein Orange Chicken S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Lemon Shrimp Stir Fry SF-C/S/W"
+        ],
+        "Parkside": [
+          "Clam Chowder M/W/SF-C",
+          "Vegetarian Chili W",
+          "Fried Chicken Salad M/W/S/E",
+          "Orange Chicken W/S",
+          "Lemon Pepper Tilapia F",
+          "Gardein Orange Chicken W/S",
+          "Chef's Choice",
+          "Veggie Pizza S/W/M"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "Pancakes M/W/S",
+          "Turkey Bacon",
+          "Tater Tots",
+          "Cream of Broccoli Soup M/S/W",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Pancakes M/W/S",
+          "Turkey Bacon",
+          "Tator Tots",
+          "Vegetable Rice Soup",
+          "Beef and Barley Soup W",
+          "Yogurt Parfait Bar",
+          "Chef's Choice",
+          "Build Your Own Crepe"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Cream of Broccoli Soup M/S/W",
+          "Baked Turkey",
+          "Healthy Barley Bowl",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Vegetable Rice Soup",
+          "Beef and Barley Soup W",
+          "Fried Chicken Salad M/W/S",
+          "Irish Nacho Bar M",
+          "Spicy Ranch Chicken Sandwich W/S/E/M",
+          "Vegetable and Tofu Fried Rice S/W",
+          "Mac and Cheese Bites W/M"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "French Toast E/M/W",
+          "Sausage Link",
+          "Hash Brown Patty",
+          "Chicken Gumbo Soup E/F/M/S/W",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "French Toast E/M/W",
+          "Sausage Link",
+          "Hash Brown Patty",
+          "Vegetable Rice Soup",
+          "Beef and Barley Soup W",
+          "Smoothie of the Day",
+          "Chef's Choice"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Gumbo Soup E/F/M/S/W",
+          "Beef Taquitos",
+          "Gardein Beef Fajitas",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Vegetable Rice Soup",
+          "Beef and Barley Soup W",
+          "Chicken Quesadilla M/W",
+          "Meatballs w/ Pasta S/M/W",
+          "Vegan Gardein Chicken Tenders S/W"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Egg Sandwich on English Muffin M/W/S",
+          "Kielbasa Sausage S",
+          "Home Potato"
+        ],
+        "Hillside": [
+          "Conffeti Pancakes M/W/S",
+          "Kielbasa S",
+          "Tator Tots"
+        ],
+        "Parkside": [
+          "Conffeti Pancakes M/W/S",
+          "Kielbasa S",
+          "Cajun Potatoes"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Chicken Pozole",
+          "Tuna Rotini Salad F/W/E",
+          "Orange Chicken",
+          "Vegetables w/Lo Mein Noodles",
+          "Chef Choice",
+          "Philly Cheese Steak Sandwich",
+          "Mexican Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Pork Pozole Rojo",
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken Taco Salad M/W/E",
+          "Creamy Tomato Cheese Ravioli W/M/E",
+          "Chicken Tenders W",
+          "Vegan Lasagna S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Black Pepper Beef Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Pork Pozole",
+          "Broccoli Cheddar Soup M/W/S",
+          "Italian Sub Sandwich W/M/E",
+          "Cheese Ravioli w/ Cream Tomato Sauce M/W/E",
+          "Chicken TendersW",
+          "Vegan Lasagna S",
+          "Chef's Choice",
+          "Taco Pizza M/S/W"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Pozole",
+          "Tuna Rotini Salad F/W/E",
+          "Chicken/Shrimp Fajita",
+          "Chile Relleno M/W/E/S",
+          "Chef Choice",
+          "Crispy Chicken Bacon Ranch Sandwich E/M",
+          "Mexican Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Pork Pozole Rojo",
+          "Broccoli Cheddar Soup M/W/S",
+          "Chicken Taco Salad M/W/E",
+          "Pasta w/Alfredo Sauce W/M",
+          "Hamburger Bar W",
+          "Tahini Chickpea Bowl W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Black Pepper Beef Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Pork Pozole",
+          "Broccoli Cheddar Soup M/W/S",
+          "Italian Sub Sandwich W/M/E",
+          "Hamburger Bar W/M",
+          "Battered Cheese Curd Bites M/W/E",
+          "Tahini Chickpea Bowl W",
+          "Chef's Choice",
+          "Taco Pizza M/S/W"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "French Toast E/M",
+          "Bacon",
+          "Hash Browns"
+        ],
+        "Hillside": [
+          "French Toast E/M/W",
+          "Bacon",
+          "Hash Browns"
+        ],
+        "Parkside": [
+          "Soyrizo Chorizo, Egg, Potato and Cheese Breakfast Burrito E/M/W/S",
+          "Bacon",
+          "Hash Browns"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Potato Chowder M/S/W",
+          "Spinach Salad",
+          "Korean Ground Beef Bowl S/W",
+          "Cauliflower Steak w/Chimichurri Sauce",
+          "Chef Choice",
+          "Reuben Sandwich",
+          "Vegetable Calzone M/S/W"
+        ],
+        "Hillside": [
+          "Tomato Basil Soup M/W",
+          "Italian Wedding Soup S/W/M",
+          "Kale SaladM",
+          "Carnitas Bowl",
+          "Thai Chicken Drunken Noodles W/S",
+          "Gardein Chicken Tenders S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Kung Pao Chicken Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Miso Soup F/S",
+          "Italian Wedding Soup S/W/M",
+          "Kale and Quinoa Salad",
+          "Kahlua Pork Bowl S/W",
+          "Thai Chicken Drunken Noodles W/S",
+          "Vegan Cold Cut Submarine Sandwich W/S",
+          "Chef's Choice",
+          "BBQ Chicken Pizza M/S/W"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Potato Chowder M/S/W",
+          "Spinach Salad",
+          "Roasted Pork Loin w/Caramelized Onions",
+          "Gardein Scallopini S/W",
+          "Chef Choice",
+          "Nacho Bar M/E",
+          "Vegetable Calzone M/S/W"
+        ],
+        "Hillside": [
+          "Tomato Basil Soup M/W",
+          "Italian Wedding Soup S/W/M",
+          "Kale Salad M",
+          "Beef Fajitas",
+          "Turkey Pesto Flatbread M/W/E",
+          "Gardein Enchilada Scaloppine S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Kung Pao Chicken Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "Miso Soup F/S",
+          "Italian Wedding Soup S/W/M",
+          "Kale and Quinoa Salad",
+          "Pasta w/Alfredo Sauce W/M",
+          "Beef and Broccoli Stir Fry S/W",
+          "Gardein Enchilada Scaloppine S/W",
+          "Chef's Choice",
+          "BBQ Chicken Pizza M/S/W"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Breakfast Burrito E/W/M",
+          "Turkey Sausage",
+          "Papas Ala Mexicana"
+        ],
+        "Hillside": [
+          "Breakfast Burrito E/W/M",
+          "Turkey Sausage",
+          "Home Style Potatoes"
+        ],
+        "Parkside": [
+          "French Toast E/M/W",
+          "Turkey Sausage",
+          "Hash Brown Patty"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Chicken Noodle Soup W",
+          "Chicken Taco Salad M/W/E",
+          "Cilantro Chicken Stew W",
+          "Vegetable Pad Thai S/W",
+          "Chef Choice",
+          "Falafel Sandwich",
+          "Buffalo Chicken Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Butternut Squash Soup M",
+          "Chicken Noodle Soup W",
+          "Italian Pasta Salad W",
+          "Corn Dogs W/M/E",
+          "Mongolian Beef Bowl S/W",
+          "Mushroom Stroganoff W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Sour Chicken Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Potato and Bacon Soup M/S/W",
+          "Chicken Noodle Soup W",
+          "Spinach Salad TN",
+          "Corn Dogs W/M/E",
+          "Mongolian Beef Bowl S/W",
+          "Mushroom Stroganoff w/Pasta",
+          "Chef's Choice",
+          "Creamy Garlic Ricotta Flatbread Pizza M/S/W"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Chicken Noodle Soup W",
+          "Chicken Taco Salad M/W/E",
+          "Pasta Bar W/M",
+          "Crispy Tofu Bowl S/W",
+          "Chef Choice",
+          "Bahn Mi Beef Sandwich W/S/E",
+          "Buffalo Chicken Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Butternut Squash Soup M",
+          "Chicken Noodle Soup W",
+          "Italian Pasta Salad W",
+          "BBQ Chicken",
+          "Baked Cheese Manicotti M/W",
+          "Thai Curry Tofu S",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Sweet and Sour Chicken Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Potato and Bacon Soup M/S/W",
+          "Chicken Noodle Soup W",
+          "Spinach Salad TN",
+          "BBQ Chicken",
+          "Baked Cheese Manicotti W/M/E",
+          "Thai Curry Tofu S",
+          "Chef's Choice",
+          "Creamy Garlic Ricotta Flatbread",
+          "Pizza M/S/W"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Waffle Sticks E/M/S/W",
+          "Sausage Patty",
+          "Tator Tots"
+        ],
+        "Hillside": [
+          "Waffle Sticks E/M/S/W",
+          "Sausage Patty",
+          "Hash Brown Patty"
+        ],
+        "Parkside": [
+          "Waffle Sticks E/M/S/W",
+          "Sausage Patty",
+          "Tator Tots"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Tomato Basil Soup M/W",
+          "Caldo de Res",
+          "Tuna Rotini Salad F/W/E",
+          "Meatball Sub Sandwich W/M/S",
+          "Chicken Tacos",
+          "Gardein Orange Chicken S/W",
+          "Chef's Choice",
+          "Islander Bacon Pizza M/W/S"
+        ],
+        "Hillside": [
+          "Cream of Asparagus Soup M/S/W",
+          "Caldo de Res",
+          "Apple and Spinach Salad M",
+          "Meatball Sub Sandwich W/M",
+          "Chicken Tacos",
+          "Gardein Orange Chicken S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Char Sui Pork Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Tomato Basil Soup M/W",
+          "Caldo de Res",
+          "Tuna Rotini Salad F/W/E",
+          "Meatball Sub Sandwich W/M/S",
+          "Chicken Tacos",
+          "Gardein Orange Chicken S/W",
+          "Chef's Choice",
+          "Islander Bacon Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Italian Ravioli Soup M/E/S",
+          "Chicken Caesar Salad M/E/W",
+          "Beef Bourguignon W",
+          "Crispy Brussel Sprouts Fried Rice S/W",
+          "Chef Choice",
+          "Burrito Bowl M",
+          "Pastrami Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Cream of Asparagus Soup M/S/W",
+          "Caldo de Res",
+          "Apple and Spinach Salad M",
+          "Banh Mi Chicken Sandwich S/W",
+          "Beef Lomo Saltado S/W",
+          "Pasta w/Vegan Meatballs S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Char Sui Pork Stir Fry S/W"
+        ],
+        "Parkside": [
+          "Tomato Basil Soup M/W",
+          "Caldo de Res",
+          "Tuna Rotini Salad F/W/E",
+          "Banh Mi Chicken Sandwich W/S",
+          "Beef Lomo Saltado S/W",
+          "Pasta w/Vegan Meatballs S/W",
+          "Chef's Choice",
+          "Islander Bacon Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Breakfast": {
+        "Beachside": [
+          "Egg, Turkey and Cheese Sandwich on Croissant Sandwich E/M/S/W",
+          "Bacon",
+          "Tater Tots"
+        ],
+        "Hillside": [
+          "Turkey, Egg and Cheese on Croissant Sandwich E/M/S/W",
+          "Bacon",
+          "Potatoes O'Brien"
+        ],
+        "Parkside": [
+          "Turkey, Egg and Cheese Sandwich on Croissant E/M/S/W",
+          "Bacon",
+          "Potatoes O'Brien"
+        ]
+      },
+      "Lunch": {
+        "Beachside": [
+          "Clam Chowder SF/M/W",
+          "RYO California Sushi F/E/W/S/SF",
+          "Miso Cod S/W/F",
+          "Eggplant and Tofu w/ Sweet and Sour Sauce",
+          "Chef Choice",
+          "Fish and Chips M/E/F",
+          "BLT Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Miso Soup F/S",
+          "Clam Chowder M/W/SF-C",
+          "Chicken Caesar Salad w/Cilantro Dressing M/F",
+          "Beef and Cheese Enchiladas M/S/W",
+          "Battered Pollock F/W/M",
+          "Spicy Korean Tofu Bowl S/W",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Broccoli Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "French Onion Soup",
+          "Clam Chowder M/W/SF-C",
+          "Chicken Caesar Salad w/Cilantro Dressing M",
+          "Beef and Cheese Enchiladas M/S/W",
+          "Battered Pollock F/W/M",
+          "Spicy Korean Tofu Bowl S/W",
+          "Chef's Choice",
+          "Margherita Pizza M/W/S"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Clam Chowder SF/M/W",
+          "RYO California Sushi F/E/W/S/SF",
+          "Cajun Shrimp and Grits M/SF",
+          "Pasta Alla Norma M",
+          "Chef Choice",
+          "BLT Pizza M/S/W"
+        ],
+        "Hillside": [
+          "Miso Soup F/S",
+          "Clam Chowder M/W/SF-C",
+          "Chicken Caesar Salad w/Cilantro Dressing M/F",
+          "Mac and Cheese Bar W/M/S",
+          "Lemon Pepper Salmon F",
+          "Ratatouille",
+          "Chef's Choice",
+          "Build Your Own Grain Bowl",
+          "Beef and Broccoli Stir-Fry S/W"
+        ],
+        "Parkside": [
+          "French Onion Soup",
+          "Clam Chowder M/W/SF-C",
+          "Chicken Caesar Salad w/Cilantro Dressing M",
+          "Mac and Cheese Bar M/W",
+          "Wasabi Ginger Salmon F/S/W",
+          "Ratatouille",
+          "Chef's Choice",
+          "Margherita Pizza M/W/S"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "Blueberry Pancakes M/W/S",
+          "Lil Smokies",
+          "Potatoes O' Brien",
+          "Buternut Squash Soup M",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Blueberry Pancakes M/W/S",
+          "Lil Smokies",
+          "Tater Tots",
+          "Vegetable Noodle Soup W",
+          "Chicken Tortilla Soup S/W",
+          "Smoothie Bar",
+          "Chef's Choice",
+          "Build Your Own Crepe"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Buternut Squash Soup M",
+          "Beef Enchilada W/M",
+          "Cheese Enchilada W/M",
+          "Chef Choice"
+        ],
+        "Hillside": [
+          "Vegetable Noodle Soup W",
+          "Chicken Tortilla Soup S/W",
+          "Elote in a Cup E/M",
+          "Shrimp Fried Rice S/W/SF-C",
+          "Peruvian Chicken",
+          "Sweet Potato and Cauliflower Stew",
+          "Spaghetti and Meatballs W"
+        ]
+      }
+    },
+    {
+      "Brunch": {
+        "Beachside": [
+          "French Toast Sticks M/W/S",
+          "Sausage Links",
+          "Hash Brown Patty",
+          "Enchilada Soup M/S",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "French Toast Sticks E/M/W/S",
+          "Sausage Links",
+          "Hash Brown Patty",
+          "Beef and Rice Soup",
+          "Potato Leek Soup M/S/W",
+          "Fresh Juice of the Day",
+          "Chef's Choice"
+        ]
+      },
+      "Dinner": {
+        "Beachside": [
+          "Enchilada Soup M/S",
+          "Chicken Alfredo Bacon Pasta M/W",
+          "Cheese Ravioli W/M/E",
+          "Chef Choice"
+        ],
+        "Parkside": [
+          "Beef and Rice Soup",
+          "Potato Leek Soup M/S/W",
+          "Plum Sauce Chicken W/S",
+          "Pasta w/Marinara Sauce W",
+          "The Buddha Bowl"
+        ]
+      }
+    }
+  ]
+]

@@ -1,0 +1,9 @@
+/* flex.css */
+.flexbox { display: flex; }
+.flexColumn { flex-direction: column; }
+.flexWrap { flex-wrap: wrap; }
+.flexCenter { justify-content: center; }
+.flexGrow { flex: 1 0 auto; }
+.flexShrink { flex: 0 1 auto; }
+.flexBoth { flex: 1 1 auto; }
+.flexNeither { flex: 0 0 auto; }

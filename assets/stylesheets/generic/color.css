@@ -1,0 +1,78 @@
+/* toDo: Comment that documents this file */
+
+.textColor0 {
+	color: var(--colorForeground0);
+}
+.textColor1 {
+	color: var(--colorForeground1);
+}
+.textColor2 {
+	color: var(--colorForeground2);
+}
+
+.backgroundColor0 {
+	background-color: var(--colorForeground0);
+}
+.backgroundColor1 {
+	background-color: var(--colorForeground1);
+}
+.backgroundColor2 {
+	background-color: var(--colorForeground2);
+}
+
+.textAccent0 {
+	color: var(--colorAccent0);
+}
+.textAccent1 {
+	color: var(--colorAccent1);
+}
+.textAccent2 {
+	color: var(--colorAccent2);
+}
+.textAccent3 {
+	color: var(--colorAccent3);
+}
+.textAccent4 {
+	color: var(--colorAccent4);
+}
+.textAccent5 {
+	color: var(--colorAccent5);
+}
+
+.textDecorationAccent0 {
+	text-decoration-color: var(--colorAccent0);
+}
+.textDecorationAccent1 {
+	text-decoration-color: var(--colorAccent1);
+}
+.textDecorationAccent2 {
+	text-decoration-color: var(--colorAccent2);
+}
+.textDecorationAccent3 {
+	text-decoration-color: var(--colorAccent3);
+}
+.textDecorationAccent4 {
+	text-decoration-color: var(--colorAccent4);
+}
+.textDecorationAccent5 {
+	text-decoration-color: var(--colorAccent5);
+}
+
+.backgroundAccent0 {
+	background-color: var(--colorAccent0);
+}
+.backgroundAccent1 {
+	background-color: var(--colorAccent1);
+}
+.backgroundAccent2 {
+	background-color: var(--colorAccent2);
+}
+.backgroundAccent3 {
+	background-color: var(--colorAccent3);
+}
+.backgroundAccent4 {
+	background-color: var(--colorAccent4);
+}
+.backgroundAccent5 {
+	background-color: var(--colorAccent5);
+}
