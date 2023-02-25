@@ -1,7 +1,7 @@
 ################################################################################
-# This python file is intended to parse retrieve the CSULB dining hall menu from
-# the school website and parse it into a JSON file that can be distributed with
-# the diningHallMenu.js script used by diningHall.html on brodyliudzius.com
+# This python file is intended to retrieve and parsethe CSULB dining hall menu
+# from the school website and parse it into a JSON file that can be distributed
+# with the diningHallMenu.js script used by diningHall.html on brodyliudzius.com
 #
 # Copyright © Brody Liudzius 2023 MIT License
 ################################################################################
@@ -50,6 +50,7 @@ for iCycle, cycle in enumerate(menuCycles, ):
         mealData = meals[1::2] # odd indices
 
         for iMeal, meal in enumerate(mealData):
+            # second verse, same as the first
             diningHalls = re.split("(Beachside|Hillside|Parkside)", meal)
             diningHalls = [hall for hall in diningHalls if hall.strip()]
 
@@ -57,6 +58,7 @@ for iCycle, cycle in enumerate(menuCycles, ):
             diningHallData = diningHalls[1::2]
 
             for iHall, hall in enumerate(diningHallData):
+                # menu items will be the individual dishes
                 menuItems = hall.splitlines()
                 menuItems = [item.strip() for item in menuItems if item.strip()]
                 diningHallData[iHall] = menuItems

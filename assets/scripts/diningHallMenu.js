@@ -39,8 +39,8 @@ fetch('assets/data/menu.json').then(response => {
 	const dayOfWeek = Math.floor(daysSinceSemesterEpoch - weeksSinceSemesterEpoch * 7);
 
 	const diningHalls = ["Parkside", "Hillside", "Beachside"];
-	const meals = dayOfWeek > 5 ? ["Brunch", "Dinner"] : ["Breakfast", "Lunch", "Dinner"];
-	const times = dayOfWeek > 5 ? [" [ 9:30 – 13:30 ]", " [ 16:00 – 19:30 ]"] : [" [ 7:00 – 10:00 ]", " [ 11:00 – 14:30 ]", " [ 16:00 – 20:30 ]"];
+	const meals = dayOfWeek > 4 ? ["Brunch", "Dinner"] : ["Breakfast", "Lunch", "Dinner"];
+	const times = dayOfWeek > 4 ? [" [ 9:30 – 13:30 ]", " [ 16:00 – 19:30 ]"] : [" [ 7:00 – 10:00 ]", " [ 11:00 – 14:30 ]", " [ 16:00 – 20:30 ]"];
 	
 	let dateSection = document.createElement("section");
 	let h1Date = document.createElement("h1");
@@ -49,6 +49,8 @@ fetch('assets/data/menu.json').then(response => {
 
 	let sections = [];
 
+	console.log("day is " + dayOfWeek)
+
 	for (const meal in meals) {
 		let section = document.createElement("section")
 
@@ -56,14 +58,14 @@ fetch('assets/data/menu.json').then(response => {
 		h1.innerHTML = meals[meal] + times[meal];
 
 		let table = document.createElement("table");
-		let tr1 = table.insertRow();
 		for (const hall in diningHalls) {
-			let td = tr1.insertCell();
-			td.innerHTML = diningHalls[hall];
-		}
-		let tr2 = table.insertRow();
-		for (const hall in diningHalls) {
-			let td = tr2.insertCell();
+			if (menu[cycleNumbers[hall]][dayOfWeek][meals[meal]][diningHalls[hall]] == undefined)
+				continue;
+			let name = table.insertRow().insertCell();
+			let header = document.createElement("strong");
+			header.innerHTML = diningHalls[hall];
+			name.append(header);
+			let td = table.insertRow().insertCell();
 			menuItems = menu[cycleNumbers[hall]][dayOfWeek][meals[meal]][diningHalls[hall]];
 			ul = document.createElement("ul");
 			for (const item in menuItems) {
