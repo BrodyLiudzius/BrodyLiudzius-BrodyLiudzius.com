@@ -58,14 +58,17 @@ fetch('assets/data/menu.json').then(response => {
 		h1.innerHTML = meals[meal] + times[meal];
 
 		let table = document.createElement("table");
+		let tr1 = table.insertRow()
+		let tr2 = table.insertRow()
 		for (const hall in diningHalls) {
 			if (menu[cycleNumbers[hall]][dayOfWeek][meals[meal]][diningHalls[hall]] == undefined)
 				continue;
-			let name = table.insertRow().insertCell();
+			let name = tr1.insertCell();
 			let header = document.createElement("strong");
 			header.innerHTML = diningHalls[hall];
 			name.append(header);
-			let td = table.insertRow().insertCell();
+
+			let td = tr2.insertCell();
 			menuItems = menu[cycleNumbers[hall]][dayOfWeek][meals[meal]][diningHalls[hall]];
 			ul = document.createElement("ul");
 			for (const item in menuItems) {

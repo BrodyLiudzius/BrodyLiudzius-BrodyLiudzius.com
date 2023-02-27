@@ -80,6 +80,22 @@ ol {
 ol li {
 	counter-increment: ol-counter;
 }
+table {
+	overflow-x: scroll;
+	width: 100%;
+	max-width: 1500px;
+}
+td {
+	min-width: 200px;
+	
+}
+@media (max-width: 600px) {
+	table {
+		display: inline-block;
+	}
+}
+
+
 table, th, td {
 	border: 1px solid;
 	border-collapse: collapse;
