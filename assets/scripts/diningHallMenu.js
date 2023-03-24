@@ -23,10 +23,16 @@ fetch('assets/data/menu.json').then(response => {
 	const currentDate = new Date();
 	const menuCycleEpoch = new Date("01/23/2023");
 
+	// Quick dirty fix to account for spring break. Also appears on daysSinceSemesterEpoch declaration line
+	const springBreak = new Date("3/27/2023");
+	const springBreakAdjust = (currentDate.getTime() > springBreak.getTime()) ? 1 : 0;
+
 	// Get the time elapsed since Monday 23 January, 2023
 	const millisSinceSemesterEpoch = currentDate.getTime() - menuCycleEpoch.getTime();
-	const daysSinceSemesterEpoch = millisSinceSemesterEpoch / 1000 / 3600 / 24;
+	const daysSinceSemesterEpoch = millisSinceSemesterEpoch / 1000 / 3600 / 24 - 7*springBreakAdjust;
 	const weeksSinceSemesterEpoch = Math.floor(daysSinceSemesterEpoch / 7);
+
+	console.log(weeksSinceSemesterEpoch);
 
 	// cycle numbers are indexed from 0 to 4 unlike school web page
 	const cycleNumbers = [
@@ -48,8 +54,6 @@ fetch('assets/data/menu.json').then(response => {
 	dateSection.append(h1Date);
 
 	let sections = [];
-
-	console.log("day is " + dayOfWeek)
 
 	for (const meal in meals) {
 		let section = document.createElement("section")
