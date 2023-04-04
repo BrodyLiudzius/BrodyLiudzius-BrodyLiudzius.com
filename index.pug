@@ -1,27 +1,2 @@
-extends mixins/defaultTemplate.pug
-
-block title
-	title Home
-
-block content
-	main
-		article
-			//- #livingDocument: Update the welcome section
-			+section("Welcome!")
-				p   My name is Brody Liudzius and I'm an undergrad student 
-					|at California State University, Long Beach majoring in computer
-					|engineering. I use this website to post projects and hobbies
-					|of mine as well as notes, recipes, and all kinds of other sundry.
-				p   My interests include programming, electrical engineering, math,
-					|baking, drawing, and all sorts of other topics. I try to post
-					|things on the website when I have the time.
-				p   If you want to know more about me or my website then you can
-					| check out the 
-					a(href="about.html") About
-					|  page. You can also find links to my social media, LinkedIn,
-					| GitHub, my resumé, and other things there.
-			+section("Things to Check Out")
-				ul
-					+liLink("notes.html", "Notes")
-					+liLink("recipes.html", "Recipes")
-					+liLink("projects.html", "Projects")
+body
+	a(href="/testPage.html") Test Page

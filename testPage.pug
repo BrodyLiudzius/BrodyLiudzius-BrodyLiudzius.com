@@ -1,0 +1,136 @@
+extends ./mixins/extends/defaultTemplate.pug
+
+include ./mixins/scriptedIncludes/metro-icon-circle.pug
+include ./mixins/scriptedIncludes/prismJS.pug
+include ./mixins/mixins/sections.pug
+include ./mixins/mixins/media.pug
+include ./mixins/mixins/navigation.pug
+include ./mixins/mixins/references.pug
+
+//- #toDo:
+	* metro-icon-diamond
+	* metro-icon-square
+	* preview link on hover
+	* scroll bar minimap
+
+	* footnotes using <cite> tag
+	* Tables
+	* Subtitle and stuff
+	* More robust coloring system
+	* Better include system
+		* Include block at end?
+	* equations
+
+	*Table of contents
+
+	* Stacked text with outline & overlap
+	* Same idea but additive color blended text overlapping
+
+mixin lorem()
+	p Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+append scriptedIncludes
+	+metro-icon-circle()
+	+prismJS()
+
+append stylesheets
+	link(rel="stylesheet" type="text/css" href="/assets/stylesheets/colorPalettes/NYCMetro.css")
+	link(rel="stylesheet" type="text/css" href="/assets/stylesheets/generic.css")
+	link(rel="stylesheet" type="text/css" href="/assets/stylesheets/fontStyle.css")
+	link(rel="stylesheet" type="text/css" href="/testPage.css")
+	link(rel="stylesheet" type="text/css" href="/assets/stylesheets/flex.css")
+
+append scripts
+	script(type="module" src="/assets/scripts/flex.js" defer)
+
+block body
+	body(class="backgroundColor0")
+
+		header
+			+breadcrumbs(["Home", "Articles", "Electronics", "Circuit Analysis"], ["/", "/artciles.html", "/electronics.html"])
+			hgroup
+				h1(class="accent title") This Is A Title For This Web Page
+
+		div.sidebarContainer
+			div(class="sidebarLeft")
+				- urls = ["/", "/", "/"];
+				- names = ["link 1", "link 2", "link 3"];
+				+s1("Links")
+					+nav(names, urls)
+				+s1("More Links")
+					+nav(names, urls)
+		
+			main
+				article
+					+s1("First Section of Article", "1.0")
+						+lorem()
+						blockquote(class="accentBorder")
+							q
+								| Here is a blockquote, bask in its glory #[br]
+								| I can write it like a poem, #[br]
+								| And it remains magnificent
+							p(class="source") ~ Brody Liudzius
+						+lorem()
+
+						+s2("First Sub-Section", 1.1)
+							+lorem()
+							p    Some stuff will go here for testing purposes and whatnot. 
+								| I also want to test the #[code code] tag and all the goodness it can do.
+								| Here is a C++ statement: #[code(class="language-c") TMOD &= ~(1<<4);]. 
+								| Here is some more C++ (written for an 8051 MCU).
+							pre(class="language-c line-numbers" data-line="5")
+								code
+									| unsigned int j;
+									| TMOD = 0x01;
+									| TCON &= ~(1<<4);
+									| TCON &= ~(1<<5);
+									| TH0 = 0xFF;
+									| TL0 = 0x01;
+							+lorem()
+
+							+s3("First Sub-Sub-Section", "1.1.1")
+								+lorem()
+								+image("/assets/images/panda.jpeg", "", ["/assets/images/capybara.png"], ["(min-width:768px)"])
+								+lorem()
+
+								+s4("First Sub-Sub-Sub Section", "1.1.1a")
+									+lorem()
+									ul
+										li Item 1
+										li Item 2
+										li Item 3
+
+
+					+s1("Next Section", "2.0")
+						+lorem()
+						+figure("/assets/images/panda.jpeg", "An image of a panda", "A happy little panda", "2a")
+						+lorem()
+
+						+s2("Sub-Section of Second Section", "2.1")
+							+lorem()
+							aside(class="accentBorder")
+								q Here is an aside to test the functionality of asides. 
+									| Text can be added to it that is not directly related
+									| to the article at-hand.
+							+lorem()
+							audio(controls)
+								source(src="/assets/audio/ICouldHaveLied.mp3")
+
+					+references()
+						+webpageReference("Doe, John", "How to Write an Article", "example.com", "1 Jan. 1999", "http://www.example.com/articles/howToWriteArticle.html", "1 Jan. 2023")
+						+webpageReference("", "This article will have a much longer title for no aparent reason. It is also missing an author or publish date or access date", "badarticles.com", "", "http://www.badarticles.com/index.php#Section1")
+						li
+							cite Second Title
+						li
+							cite Title of Reference 3
+				
+					footer
+						a(href="/") Home
+						a(href="#top") ^Top
+			
+		footer
+			- year = new Date().getFullYear();
+			span © #{year} Brody Liudzius
+
+			

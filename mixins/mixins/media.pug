@@ -1,0 +1,16 @@
+mixin image(url, alt, sources=[], mediaQueries=[])
+	picture
+		- for (i in sources)
+			source(srcset=sources[i] media=mediaQueries[i])
+		img(src=url alt=alt)
+
+mixin figure(url, alt, caption, figureNumber, sources=[], mediaQueries=[])
+	figure
+		picture
+			- for (i in sources)
+				source(srcset=sources[i] media=mediaQueries[i])
+			img(src=url alt=alt)
+		figcaption
+			em
+				strong=`Fig. ${figureNumber} `
+				| #{caption}

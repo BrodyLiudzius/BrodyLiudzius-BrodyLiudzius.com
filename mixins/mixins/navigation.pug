@@ -1,0 +1,13 @@
+mixin nav(names, urls)
+	nav
+		ul
+			- for (let i in names)
+				li
+					a(href=urls[i])=names[i]
+
+mixin breadcrumbs(names, urls)
+	nav
+		ol(class="breadcrumbs")
+			- for (let i in names)
+				li
+					a(href=urls[i])=names[i]

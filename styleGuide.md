@@ -3,7 +3,7 @@
 This document will lay out preferred practices for the development of this web page (www.brodyliudzius.com). They are guidelines and can be broken if deemed necessary by the developer. This document should be reviewed periodically and newly-made documents checked for conformity to it. This is a living document and will be updated as is deemed necessary.
 
 ## General Guidelines
-- Use `camelCase` names for things. Consistent use of one system makes it easy to know how to capitalize names of files, class attributes, variables, etc.
+- Use `camelCase` names for things. Consistent use of one system makes it easy to know how to capitalize names of files, class attributes, variables, etc. The only exceptions are web components and `data-*` attributes which are required to contain hyphens and as such should be written in `kebab-case`.
 - Tags can be placed in comments to signal information about a file or code. All files in a directory can then be easily searched for a given tag. These tags include—but are not necessarily limited to—
 	- `#toDo` - There is a to do list within the file
 	- `#livingDocument` - The document or section of the document requires occasional review to update the information within
@@ -17,6 +17,7 @@ This document will lay out preferred practices for the development of this web p
 ## HTML Guidelines
 - Don't forget `<!DOCTYPE html>` (`doctype html` in pug) at the top of the document.
 - Semantic tags are always preferred over `div` tags! They make the intent of an HTML block far more understandable. `div` is reserved for when no other tag is suitable.
+- Custom Elements should be preferred of `div` tags. If a suitable tag does not exist, consider making a new, custom tag before resrting to `div`. A well-named custom element will explain its own purpose in the web page—unlike `div`.
 - It should always be preferred to explicitly type unicode characters like bullet points in the source file instead of HTML character entitites. This makes the HTML file more readable. Exceptions to this include things like `&nbsp` which is more readable than the actual whitespace character itself.
 - It is preferred that unnecessary whitespace in tags and attributes be removed. For example, `<h1 class = "title "> ` should be `<h1 class="title">`
 - The html root element should contain a `lang` attribute (i.e. `<html lang="en">`) that is a valid ISO language code. Search engines use it to find language-relevant results, and translation tools and text-readers can use it for increased page accessibility. Any tags in the page that contain a language other than the `html` tag's `lang` attribute should have a `lang` attribute of their own.

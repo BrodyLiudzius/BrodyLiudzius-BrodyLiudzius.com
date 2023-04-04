@@ -1,0 +1,41 @@
+mixin s1(name, number)
+	section(class="section1")
+		header
+			hgroup
+				h1(class="accent")=name
+				if number
+					p(class="accent") Section #{number}
+			hr(class="accent")
+		if block
+			block
+
+mixin s2(name, number)
+	section(class="section2")
+		header
+			hgroup
+				h2(class="accent")=name
+				if number
+					p(class="accent") Section #{number}
+			hr(class="accent")
+		if block
+			block
+
+mixin s3(name, number)
+	section(class="section3")
+		header
+			hgroup
+				h3(class="accent")=name
+				if number
+					p(class="accent") Section #{number}
+		if block
+			block
+
+mixin s4(name, number)
+	section(class="section4")
+		header
+			hgroup
+				h4(class="accent")=name
+				if number
+					p(class="accent") Section #{number}
+		if block
+			block

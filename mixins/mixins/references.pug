@@ -1,0 +1,79 @@
+//- Citations should be in IEEE format
+//- https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf
+//- https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf
+
+
+//- #requires: textStyle.css
+
+
+
+//- Creates a references section
+mixin references()
+	+s2("References")
+		ol(class="references")
+			if block
+				block
+
+//- A reference for a general webpage or article
+mixin webpageReference(authors, articleName, domainName, publishDate, url, accessDate)
+	li(class="webpageReference")
+		- if (authors)
+			span=authors
+			- if (articleName || domainName || publishDate)
+				| , 
+			- else if (url || accessDate)
+				| . 
+		- if (articleName)
+			cite=`"${articleName}"`
+			- if (domainName || publishDate)
+				| , 
+			- else if (url || accessDate)
+				| . 
+		- if (domainName)
+			span(class="italics")=domainName
+			- if (publishDate)
+				| , 
+			- else if (url || accessDate)
+				| . 
+		- if (publishDate)
+			span=publishDate
+			- if (url || accessDate)
+				| . 
+		| [Online]. 
+		- if (url)
+			| Available: 
+			a(href=url)=url
+			- if (accessDate)
+				| . 
+		- if (accessDate)
+			span=`[Accessed ${accessDate}].`
+
+//- A reference for a book
+mixin bookReference(authors, bookChapter, bookTitle, bookEdition, editors, publishLocation, publisher, publishYear, pageNumbers)
+	li(class="bookReference")
+		- if (authors)
+			span=authors
+			- if (bookChapter || bookTitle || bookEdition || editors || publishLocation || publisher || publishYear || pageNumbers)
+				| , 
+		- if (bookChapter)
+			span=`"${bookChapter}"`
+			- if (bookTitle)
+				|  in 
+			- else if (bookEdition || editors || publishLocation || publisher || publishYear || pageNumbers)
+				| , 
+		- if (bookTitle)
+			cite=bookTitle
+			- if (bookEdition || editors || publishLocation || publisher || publishYear || pageNumbers)
+				| , 
+		- if (bookEdition)
+			span=bookEdition
+			
+		- if (editors)
+
+		- if (publishLocation)
+
+		- if (publisher)
+
+		- if (publishYear)
+
+		- if (pageNumbers)

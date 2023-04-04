@@ -1,0 +1,20 @@
+/* flex.css */
+.flexbox {display: flex;}
+.flexColumn {flex-direction: column;}
+.flexWrap {flex-wrap: wrap;}
+.flexJustifyCenter {justify-content: center;}
+.flexJustifyBetween {justify-content: space-between;}
+.flexAlignBaseline {align-items: baseline;}
+.flexGrow {flex-grow: 1;}
+.flexShrink {flex-shrink: 1;}
+.flexNeither {flex: 0 0 auto;}
+
+
+/* #toDo: Replace with attr function
+when browser compatibility is more standard */
+.flexGrow1 {flex-grow: 1; flex-basis: 0;}
+.flexShrink1 {flex-shrink: 1; flex-basis: 0;}
+.flexGrow2 {flex-grow: 2; flex-basis: 0;}
+.flexShrink2 {flex-shrink: 2; flex-basis: 0;}
+.flexGrow3 {flex-grow: 3; flex-basis: 0;}
+.flexShrink3 {flex-shrink: 3; flex-basis: 0;}

@@ -1,0 +1,32 @@
+doctype HTML
+html(lang="en_us")
+	head
+		block meta
+			meta(charset="UTF-8")
+			meta(name="viewport" content="width=device-width, initial-scale=1.0")
+			meta(name="author" content="Brody Liudzius")
+			meta(name="description" content="Personal website of Brody Liudzius")
+
+		block title
+
+		- let imports = [];
+		- let stylesheets = [];
+		- let scripts = [];
+
+		//- #toDo: remove all duplicates as set
+
+		//- This block is where mixins that assign values to the above arrays would be called
+		block scriptedIncludes
+
+		each iport in imports 
+			link(rel="import" href=iport)
+		block imports
+
+		each stylesheet in stylesheets
+			link(rel="stylesheet" type="text/css" href=stylesheet)
+		block stylesheets
+
+		each script in scripts
+			script(type="module" src=script)
+		block scripts
+	block body
