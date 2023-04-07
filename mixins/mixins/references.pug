@@ -3,7 +3,7 @@
 //- https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf
 
 
-//- #requires: textStyle.css
+//- #requires: textStyle.css, sections.pug
 
 
 
@@ -46,34 +46,54 @@ mixin webpageReference(authors, articleName, domainName, publishDate, url, acces
 			- if (accessDate)
 				| . 
 		- if (accessDate)
-			span=`[Accessed ${accessDate}].`
+			span=`[Accessed ${accessDate}]`
+		| .
 
 //- A reference for a book
 mixin bookReference(authors, bookChapter, bookTitle, bookEdition, editors, publishLocation, publisher, publishYear, pageNumbers)
 	li(class="bookReference")
 		- if (authors)
 			span=authors
-			- if (bookChapter || bookTitle || bookEdition || editors || publishLocation || publisher || publishYear || pageNumbers)
+			- if (bookChapter || bookTitle || bookEdition || editors)
 				| , 
+			- else if (publishLocation || publisher || publishYear || pageNumbers)
+				| . 
 		- if (bookChapter)
 			span=`"${bookChapter}"`
 			- if (bookTitle)
 				|  in 
-			- else if (bookEdition || editors || publishLocation || publisher || publishYear || pageNumbers)
+			- else if (bookEdition || editors)
 				| , 
+			- else if (publishLocation || publisher || publishYear || pageNumbers)
+				| . 
 		- if (bookTitle)
 			cite=bookTitle
-			- if (bookEdition || editors || publishLocation || publisher || publishYear || pageNumbers)
+			- if (bookEdition || editors)
 				| , 
+			- else if (publishLocation || publisher || publishYear || pageNumbers)
+				| . 
 		- if (bookEdition)
 			span=bookEdition
-			
+			- if (editors)
+				| , 
+			- else if (publishLocation || publisher || publishYear || pageNumbers)
+				| . 
 		- if (editors)
-
+			span=`${editors} Ed. `
 		- if (publishLocation)
-
+			span=publishLocation
+			- if (publisher)
+				| : 
+			- else if (publishYear || pageNumbers)
+				| , 
 		- if (publisher)
-
+			span=publisher
+			- if (publishYear || pageNumbers)
+				| , 
 		- if (publishYear)
-
+			span=publishYear
+			- if (pageNumbers)
+				| , 
 		- if (pageNumbers)
+			span=`pp. ${pageNumbers}`
+		| .

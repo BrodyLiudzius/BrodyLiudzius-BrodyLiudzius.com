@@ -5,7 +5,7 @@ include ./mixins/scriptedIncludes/prismJS.pug
 include ./mixins/mixins/sections.pug
 include ./mixins/mixins/media.pug
 include ./mixins/mixins/navigation.pug
-include ./mixins/mixins/references.pug
+include /mixins/mixins/references.pug
 
 //- #toDo:
 	* metro-icon-diamond
@@ -20,6 +20,7 @@ include ./mixins/mixins/references.pug
 	* Better include system
 		* Include block at end?
 	* equations
+	* Section numbers as CSS rules?
 
 	*Table of contents
 
@@ -118,12 +119,9 @@ block body
 								source(src="/assets/audio/ICouldHaveLied.mp3")
 
 					+references()
-						+webpageReference("Doe, John", "How to Write an Article", "example.com", "1 Jan. 1999", "http://www.example.com/articles/howToWriteArticle.html", "1 Jan. 2023")
+						+webpageReference("J. Doe", "How to Write an Article", "example.com", "1 Jan. 1999", "http://www.example.com/articles/howToWriteArticle.html", "1 Jan. 2023")
 						+webpageReference("", "This article will have a much longer title for no aparent reason. It is also missing an author or publish date or access date", "badarticles.com", "", "http://www.badarticles.com/index.php#Section1")
-						li
-							cite Second Title
-						li
-							cite Title of Reference 3
+						+bookReference("K. Reeves", "Microprograms", "Microprocessor Design Principles", "3rd Edition", "F. Rogers and T. Hanks", "Cambridge", "Cambridge Press", "1997", "123-134")
 				
 					footer
 						a(href="/") Home
